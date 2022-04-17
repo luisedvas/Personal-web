@@ -17,8 +17,8 @@ Web personal
       <ul>
         <li><a href="#informacion">Información</a></li>
         <li><a href="#habilidades">Habilidades</a></li>
-        <li>Proyectos</li>
-        <li>Contacto</li>
+        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="contacto">Contacto</a></li>
       </ul>
     </nav>
     <section>
@@ -36,6 +36,14 @@ Web personal
           <li>CSS</li>
           <li>JavaScript</li>
         </ol>
+      </article>
+    </section>
+    <section>
+      <article>
+        <h2 id="proyectos">Proyectos</h2>
+        <h3>Tesis de grado</h3>
+        <a target="_blank" href="#"><img src="" alt=""></a>
+        
       </article>
     </section>
   </body>
