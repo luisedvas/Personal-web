@@ -9,7 +9,7 @@ Web personal
   </head>
   <body>
     <header>
-      <h1><strong>Luis Eduardo Díaz</strong></h1>
+      <h1 id="top"><strong>Luis Eduardo Díaz</strong></h1>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" alt="imagen-de-perfil"></a>
       <side>
         <ul>
@@ -62,6 +62,7 @@ Web personal
           <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
           <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
           <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
+          <a href="#top">-> Inicio</a>
         </ol>
     </footer>
   </body>
