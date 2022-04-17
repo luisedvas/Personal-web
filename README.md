@@ -15,7 +15,7 @@ Web personal
     </main>
     <nav>
       <ul>
-        <li>Acerca de mí</li>
+        <li><a href="#informacion">Acerca de mí</a></li>
         <li>Habilidades</li>
         <li>Proyectos</li>
         <li>Contacto</li>
@@ -23,7 +23,7 @@ Web personal
     </nav>
     <section>
       <article>
-        <h2>Acerca de mí</h2>
+        <h2 id="informacion">Acerca de mí</h2>
       </article>
     </section>
   </body>
