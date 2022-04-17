@@ -43,7 +43,6 @@ Web personal
         <h2 id="proyectos">Proyectos</h2>
         <h3>Tesis de grado</h3>
         <a target="_blank" href="#"><img src="" alt=""></a>
-        
       </article>
     </section>
   </body>
