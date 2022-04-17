@@ -18,7 +18,7 @@ Web personal
         <li><a href="#informacion">Información</a></li>
         <li><a href="#habilidades">Habilidades</a></li>
         <li><a href="#proyectos">Proyectos</a></li>
-        <li><a href="contacto">Contacto</a></li>
+        <li><a href="#contacto">Contacto</a></li>
       </ul>
     </nav>
     <section>
@@ -45,6 +45,14 @@ Web personal
         <a target="_blank" href="#"><img src="" alt=""></a>
       </article>
     </section>
+    <footer>
+      <p id="contacto">Contacto</p>
+        <ol>
+          <li><a target="_blank" href="">Email</a></li>
+          <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
+          <li><a target="_blank" href="#">Instagram</a></li>
+        </ol>
+    </footer>
   </body>
 
 </html>
