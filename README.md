@@ -48,9 +48,9 @@ Web personal
     <footer>
       <p id="contacto">Contacto</p>
         <ol>
-          <li><a target="_blank" href="">Email</a></li>
+          <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
           <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
-          <li><a target="_blank" href="#">Instagram</a></li>
+          <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
         </ol>
     </footer>
   </body>
