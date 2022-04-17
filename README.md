@@ -56,6 +56,11 @@ Web personal
         <a target="_blank" href="#"><img src="" alt="tesis-de-grado"></a>
       </article>
     </section>
+    <section>
+      <form action="#">
+        <input type="text" placeholder="">
+      </form>
+    </section>
     <footer>
       <p id="contacto">Contacto</p>
         <ol>
