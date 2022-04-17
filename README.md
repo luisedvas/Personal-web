@@ -15,7 +15,7 @@ Web personal
     </main>
     <nav>
       <ul>
-        <li><a href="#informacion">Acerca de mí</a></li>
+        <li><a href="#informacion">Información</a></li>
         <li>Habilidades</li>
         <li>Proyectos</li>
         <li>Contacto</li>
