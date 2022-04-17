@@ -58,7 +58,7 @@ Web personal
     </section>
     <section>
       <form action="#">
-        <input type="text" placeholder=""><
+        <input type="text" placeholder="" required>
         <button type="submit">Submit</button>
       </form>
     </section>
