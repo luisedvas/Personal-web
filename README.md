@@ -16,14 +16,26 @@ Web personal
     <nav>
       <ul>
         <li><a href="#informacion">Información</a></li>
-        <li>Habilidades</li>
+        <li><a href="#habilidades">Habilidades</a></li>
         <li>Proyectos</li>
         <li>Contacto</li>
       </ul>
     </nav>
     <section>
       <article>
-        <h2 id="informacion">Acerca de mí</h2>
+        <h2 id="informacion">Acerca de mí</h2
+        <p>Mi nombre es Luis Eduardo Diaz, vivo en Venezuela, estado Zulia. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
+        <p>Aparte de desarrollo web tengo un background en arquitectura, donde mis interes se centran en urbanismo e interior design</p>
+      </article>
+    </section>
+    <section>
+      <article>
+        <h2 id="habilidades">Habilidades</h2>
+        <ol>
+          <li>HTML</li>
+          <li>CSS</li>
+          <li>JavaScript</li>
+        </ol>
       </article>
     </section>
   </body>
