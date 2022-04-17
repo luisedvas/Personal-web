@@ -10,7 +10,7 @@ Web personal
   <body>
     <header>
       <h1>Luis Eduardo Díaz</h1>
-      <img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" alt="imagen-de-perfil">
+      <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" alt="imagen-de-perfil"></a>
       <side>
         <ul>
           <li>Datos</li>
@@ -35,7 +35,7 @@ Web personal
     <section>
       <article>
         <h2 id="informacion">Acerca de mí</h2
-        <p>Mi nombre es Luis Eduardo Diaz, vivo en Venezuela, estado Zulia. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
+          <p>Mi nombre es Luis Eduardo Diaz, vivo en Venezuela, <a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
         <p>Aparte de desarrollo web tengo un background en arquitectura, donde mis interes se centran en urbanismo e interior design</p>
       </article>
     </section>
