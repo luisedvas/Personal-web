@@ -58,8 +58,8 @@ Web personal
       </article>
     </section>
     <section>
-      <form action="#">
-        <input type="text" placeholder="" required>
+      <form action="url-where-you-want-to-submit-form-data">
+        <input type="text" placeholder="Datos" required>
         <button type="submit">Submit</button>
       </form>
     </section>
