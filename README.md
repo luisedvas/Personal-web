@@ -36,6 +36,7 @@ Web personal
       <article>
         <h2 id="informacion">Acerca de mí</h2
         <p>Mi nombre es Luis Eduardo Diaz, vivo en Venezuela, <a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
+        <!-- mejorar redaccion de la presentacion -->
         <p>Aparte de desarrollo web tengo un background en arquitectura, donde mis interes se centran en urbanismo e interior design</p>
       </article>
     </section>
@@ -63,11 +64,13 @@ Web personal
       </form>
     </section>
     <footer>
+      <!-- agregar un encabezado -->
       <p id="contacto">Contacto</p>
         <ol>
           <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
           <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
           <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
+          <!-- arreglar este "inicio" -->
           <a href="#top">-> Inicio</a>
         </ol>
     </footer>
