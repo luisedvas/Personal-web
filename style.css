@@ -1,14 +1,14 @@
 .encabezado-principal {
-	color: blue;
-	font-size: 21px;
-	font-family: monospace;
+  color: blue;
+  font-size: 21px;
+  font-family: monospace;
 }
 
 
 .un-list {
-	color: black;
-	font-size: 16px;
-	font-family: 'Times New Roman'
+  color: black;
+  font-size: 16px;
+  font-family: 'Times New Roman'
 }
 
 .imagen-de-perfil {
@@ -19,52 +19,53 @@
 }
 
 .presentacion {
-	color: blue;
-	font-size: 16px;
-	font-family: 'Times New Roman'
+  color: blue;
+  font-size: 16px;
+  font-family: 'Times New Roman'
 }
 
 .un-list-dos {
-	color: black;
-	font-size: 16px;
-	font-family: 'Times New Roman'
-	
-}.informacion {
-	color: blue;
-	font-size: 21px;
-	font-family: monospace;
+  color: black;
+  font-size: 16px;
+  font-family: 'Times New Roman'	
+}
+
+.informacion {
+  color: blue;
+  font-size: 21px;
+  font-family: monospace;
 }
 
 .descripcion {
-	color: clue;
-	font-size: 21px;
-	font-family: monospace;
+  color: clue;
+  font-size: 21px;
+  font-family: monospace;
 }
 
 h2 {
-	color: blue-gradient;
-	font-size: 22px;
+  color: blue-gradient;
+  font-size: 22px;
 }
 
 .contacto {
-	color: black;
-	font-size: 21px;
+  color: black;
+  font-size: 21px;
 	
 }
 
 
 
 .texto-incrustado {
- color: black;
- font-size: 16px;
- font-family: sans-serif;
- text-align: center;	
+   color: black;
+   font-size: 16px;
+   font-family: sans-serif;
+   text-align: center;	
 }
 
 .box {
-background-color: yellow;
-border-width: 6px;
-border-color: black;	
+  background-color: yellow;
+  border-width: 6px;
+  border-color: black;	
 }
 
 .black-box {
