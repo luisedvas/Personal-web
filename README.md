@@ -74,5 +74,11 @@ Web personal
           <a href="#top">-> Inicio</a>
         </ol>
     </footer>
+    <!-- padding and margin -->
+    <div class="box snippet-text">
+      <h3 class="box caja-amarilla">Informacion</h3>
+      <h3 class="box caja-azul">Contacto</h3>
+    </div>
+    <!-- padding and margin -->
   </body>
 </html>
