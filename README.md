@@ -76,7 +76,6 @@ Web personal
     </footer>
     <!-- padding and margin -->
     <h5 class="texto-incrustado">Contacto</h5>
-    
     <div class="box black-box">
       <h3 class="box caja-amarilla">Informacion</h3>
       <h3 class="box caja-azul">Contacto</h3>
