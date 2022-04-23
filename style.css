@@ -1,5 +1,16 @@
+.boton-principal {
+  align-content: right;
+}
+
+.imagen-de-perfil {
+  border-color: black;
+  border-style: solid:
+  border-width: 16px;
+  border-radius: 50%;	
+}
+
 .encabezado-principal {
-  color: blue;
+  color: black;
   font-size: 21px;
   font-family: monospace;
 }
@@ -10,15 +21,8 @@
   font-family: 'Times New Roman'
 }
 
-.imagen-de-perfil {
-  border-color: black;
-  border-style: solid:
-  border-width: 16px;
-  border-radius: 50%;	
-}
-
 .presentacion {
-  color: blue;
+  color: black;
   font-size: 16px;
   font-family: 'Times New Roman'
 }
@@ -30,19 +34,24 @@
 }
 
 .informacion {
-  color: blue;
+  color: black;
   font-size: 21px;
   font-family: monospace;
 }
 
 .descripcion {
-  color: clue;
+  color: black;
   font-size: 21px;
   font-family: monospace;
 }
 
-h2 {
-  color: blue-gradient;
+#habilidades {
+  color: black;
+  font-size: 22px;
+}
+
+#proyectos {
+  color: black;
   font-size: 22px;
 }
 
