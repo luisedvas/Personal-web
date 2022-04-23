@@ -9,6 +9,12 @@ Web personal
   </head>
   <body>
     <header>
+       <section class="boton-principal">
+      <form action="url-where-you-want-to-submit-form-data">
+        <input type="text" placeholder="Datos" required>
+        <button type="submit">Submit</button>
+      </form>
+    </section>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil"></a>
       <h1 class="encabezado-principal" id="top"><strong>Luis Eduardo Díaz</strong></h1>
       <side>
@@ -21,7 +27,7 @@ Web personal
     </header> 
       <!-- Mejorar mi presentación -->
     <main class="presentacion">
-      <p>Hola! Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta, mi intereses se centran en web development, enfocado en lenguajes como JavaScript, y de maquetación como HTML y CSS</p>
+      <p>Hola!<br><br> Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta, mi intereses se centran en web development, enfocado en lenguajes como JavaScript, y de maquetación como HTML y CSS</p>
       <p>En esta web encontrarás informacion acerca de mis habilidades, proyectos en los que he participado e información de contacto</p>
     </main>
     <nav>
@@ -35,7 +41,7 @@ Web personal
     <section>
       <article>
         <h2 class="informacion" id="informacion">Acerca de mí</h2
-        <p class="descripcion">Mi nombre es Luis Eduardo Diaz, vivo en Venezuela, <a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
+        <p class="descripcion">Mi nombre es Luis Eduardo Diaz, vivo en Venezuela,<a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
         <!-- mejorar redaccion de la presentacion -->
         <p class="descripcion">Aparte de desarrollo web tengo un background en arquitectura, donde mis interes se centran en urbanismo e interior design</p>
       </article>
@@ -56,12 +62,6 @@ Web personal
         <h3>Tesis de grado</h3>
         <a target="_blank" href="#"><img src="" alt="tesis-de-grado"></a>
       </article>
-    </section>
-    <section>
-      <form action="url-where-you-want-to-submit-form-data">
-        <input type="text" placeholder="Datos" required>
-        <button type="submit">Submit</button>
-      </form>
     </section>
     <footer>
       <!-- agregar un encabezado -->
