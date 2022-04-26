@@ -9,14 +9,14 @@ Web personal
   </head>
   <body>
     <header>
-       <section class="boton-principal">
-      <form action="url-where-you-want-to-submit-form-data">
-        <input type="text" placeholder="Datos" required>
-        <button type="submit">Submit</button>
-      </form>
-    </section>
-      <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil"></a>
-      <h1 class="encabezado-principal" id="top"><strong>Luis Eduardo Díaz</strong></h1>
+      <section class="boton-principal">
+        <form action="url-where-you-want-to-submit-form-data">
+          <input type="text" placeholder="Datos" required>
+          <button type="submit">Submit</button>
+        </form>
+     </section>
+      <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil"  id="top"></a>
+      <h1 class="encabezado-principal"><strong>Luis Eduardo Díaz</strong></h1>
       <side>
         <ul class="un-list">
           <li>Datos</li>
@@ -63,7 +63,7 @@ Web personal
       <article>
         <h2 id="proyectos">Proyectos</h2>
         <h3 class="tesis">Tesis de grado</h3>
-        <a target="_blank" href="#"><img src="" alt="tesis-de-grado"></a>
+        <a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
       </article>
     </section>
     <footer>
@@ -74,8 +74,6 @@ Web personal
           <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
           <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
           <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
-          <!-- arreglar este "inicio" -->
-          <a href="#top">-> Inicio</a>
         </ol>
     </footer>
     <!-- padding and margin -->
@@ -85,5 +83,9 @@ Web personal
       <h3 class="box caja-azul">Contacto</h3>
     </div>
     <!-- padding and margin -->
+    <!-- arreglar este "inicio" -->
+    <section class="boton-inicio">
+       <a href="#top">Inicio</a>
+    </section>  
   </body>
 </html>
