@@ -1,5 +1,7 @@
 .boton-principal {
+  display: flex;
   align-item: right;
+  
 }
 
 .imagen-de-perfil {
@@ -27,8 +29,12 @@
   border-width: 3px;
   border-radius: 6px;
   text-align: justify;
-  
 }
+
+.list-dos {
+  text-decoration: none;  
+}
+
 
 .presentacion {
   color: black;
@@ -73,8 +79,9 @@
 }
 
 #habilidades {
-  color: black;
-  font-size: 22px;
+  color: rgb(80, 180, 180);
+  font-size: 24px;
+  font-family: monospace;
   text-align: justify;
 }
 
@@ -91,28 +98,35 @@
 }
 
 #proyectos {
-  color: black;
-  font-size: 22px;
+  color: rgb(80, 180, 180);
+  font-family: monospace;
+  font-size: 24px;
 }
 
 .tesis {
-  color: black;
-  font-size: 21px;
+  color: rgb(80, 180, 180);
+  font-size: 22px;
 }
 
 .contacto {
-  color: black;
+  color: rgb(80, 180, 180);
   font-size: 21px;
+  font-family: monospace;
 }
 
 .ult-list {
   color: black;
   background-color: gray;
   font-size: 18px;
+  
   border-style: solid;
   border-color: black;
   border-width: 3px;
   border-radius: 6px;
+}
+
+.sub {
+  text-decoration: none;
 }
 
 .texto-incrustado {
@@ -147,5 +161,6 @@
 [type='submit'] {
   margin: 20px 0px 20px 0px;
 }
+
 
 /* Practicar variables CSS */
