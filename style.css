@@ -27,6 +27,7 @@
   border-width: 3px;
   border-radius: 6px;
   text-align: justify;
+  
 }
 
 .presentacion {
@@ -146,6 +147,5 @@
 [type='submit'] {
   margin: 20px 0px 20px 0px;
 }
-
 
 /* Practicar variables CSS */
