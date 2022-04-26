@@ -32,10 +32,10 @@ Web personal
     </main>
     <nav>
       <ul class="un-list-dos">
-        <li><a href="#informacion">Información</a></li>
-        <li><a href="#habilidades">Habilidades</a></li>
-        <li><a href="#proyectos">Proyectos</a></li>
-        <li><a href="#contacto">Contacto</a></li>
+        <li><a class="list-dos" href="#informacion">Información</a></li>
+        <li><a class="list-dos" href="#habilidades">Habilidades</a></li>
+        <li><a class="list-dos" href="#proyectos">Proyectos</a></li>
+        <li><a class="list-dos" href="#contacto">Contacto</a></li>
       </ul>
     </nav>
     <hr>
@@ -62,8 +62,9 @@ Web personal
     <section>
       <article>
         <h2 id="proyectos">Proyectos</h2>
-        <h3 class="tesis">Tesis de grado</h3>
+        <h4 class="tesis">Tesis de grado</h4>
         <a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
+        <figcaption>Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana, Ciudad de Panamá.</figcaption>
       </article>
     </section>
     <footer>
@@ -71,9 +72,11 @@ Web personal
       <hr>
       <h3 class="contacto">Contacto:</h3>
         <ol class="ult-list">
-          <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
-          <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
-          <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
+          <li><a class="sub" target="_blank" href="#">Email</a></li>
+          <li><a class="sub" target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
+          <li><a class="sub" target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a>
+          </li>
+          <li><a class="sub" target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/">LinkedIn</a></li>
         </ol>
     </footer>
     <!-- padding and margin -->
