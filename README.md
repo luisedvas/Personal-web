@@ -40,33 +40,35 @@ Web personal
     </nav>
     <section>
       <article>
-        <h2 class="informacion" id="informacion">Acerca de mí</h2
-        <p class="descripcion">Mi nombre es Luis Eduardo Diaz, vivo en Venezuela,<a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React</p>
+        <h2 class="informacion">Acerca de mí</h2>
+       <p class="descripcion-uno">Mi nombre es Luis Eduardo Díaz, vivo en Venezuela, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React.</p>
         <!-- mejorar redaccion de la presentacion -->
-        <p class="descripcion">Aparte de desarrollo web tengo un background en arquitectura, donde mis interes se centran en urbanismo e interior design</p>
+        <p class="descripcion-dos">Aparte de desarrollo web tengo un background en arquitectura, donde mis intereses se centran en urbanismo e interior design.</p>
       </article>
     </section>
     <section>
       <article>
         <h2 id="habilidades">Habilidades</h2>
-        <ol>
+        <ol class="list-ord-1">
           <li>HTML</li>
           <li>CSS</li>
           <li>JavaScript</li>
+          <li>React</li>
+          <li>Figma</li>
         </ol>
       </article>
     </section>
     <section>
       <article>
         <h2 id="proyectos">Proyectos</h2>
-        <h3>Tesis de grado</h3>
+        <h3 class="tesis">Tesis de grado</h3>
         <a target="_blank" href="#"><img src="" alt="tesis-de-grado"></a>
       </article>
     </section>
     <footer>
       <!-- agregar un encabezado -->
-      <p class="contacto" id="contacto">Contacto</p>
-        <ol>
+      <h3 class="contacto">Contacto:</h3>
+        <ol class="ult-list">
           <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
           <li><a target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
           <li><a target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a></li>
