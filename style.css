@@ -1,48 +1,66 @@
 .boton-principal {
-  align-content: right;
+  align-item: right;
 }
 
 .imagen-de-perfil {
   border-color: black;
-  border-style: solid:
-  border-width: 16px;
+  border-style: solid;
+  border-width: 6px;
   border-radius: 50%;	
+  align-item: center;
 }
 
 .encabezado-principal {
-  color: black;
-  font-size: 21px;
-  font-family: monospace;
+  color: rgb(90, 100, 180);
+  font-size: 24px;
+  font-family: 'Times New Roman';
 }
 
 .un-list {
   color: black;
-  font-size: 16px;
-  font-family: 'Times New Roman'
+  background-color: gray;
+  font-size: 21px;
+  font-family: 'Times New Roman';
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 6px;
+  
 }
 
 .presentacion {
   color: black;
-  font-size: 16px;
-  font-family: 'Times New Roman'
+  font-size: 21px;
+  font-family: 'Times New Roman';
 }
 
 .un-list-dos {
   color: black;
-  font-size: 16px;
-  font-family: 'Times New Roman'	
+  background-color: gray;
+  font-size: 18px;
+  font-family: 'Times New Roman';
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 6px;
 }
 
 .informacion {
-  color: black;
-  font-size: 21px;
+  color: rgb(80, 180, 180);
+  font-size: 24px;
   font-family: monospace;
 }
 
-.descripcion {
+.descripcion-uno {
   color: black;
   font-size: 21px;
-  font-family: monospace;
+  font-family: 'Times New Roman';
+}
+
+.descripcion-dos{
+  color: black;
+  font-size: 21px;
+  font-family: 'Times New Roman';
 }
 
 #habilidades {
@@ -50,15 +68,39 @@
   font-size: 22px;
 }
 
+.list-ord-1 {
+  color: black;
+  background-color: gray;
+  font-size: 21px;
+  font-family: monospace;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 6px;
+}
+
 #proyectos {
   color: black;
   font-size: 22px;
 }
 
+.tesis {
+  color: black;
+  font-size: 21px;
+}
+
 .contacto {
   color: black;
   font-size: 21px;
-	
+}
+
+.ult-list {
+  color: black;
+  background-color: gray;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+  border-radius: 6px;
 }
 
 .texto-incrustado {
@@ -69,7 +111,7 @@
 }
 
 .box {
-   background-color: yellow;
+   background-color: black;
    border-width: 6px;
    border-color: black;	
 }
@@ -79,11 +121,13 @@
 }
 
 .caja-amarilla {
-
+  background-color: yellow;
+  margin: 60px 30px 30px 30px;
+  padding: 30px 30px 30px 30px;
 }
 
 .caja-azul {
-
+  background-color: blue;
 }
 
 /* Attribute Selectors to Style Elements */
