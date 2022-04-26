@@ -27,8 +27,8 @@ Web personal
     </header> 
       <!-- Mejorar mi presentación -->
     <main class="presentacion">
-      <p>Hola!<br><br> Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta, mi intereses se centran en web development, enfocado en lenguajes como JavaScript, y de maquetación como HTML y CSS</p>
-      <p>En esta web encontrarás informacion acerca de mis habilidades, proyectos en los que he participado e información de contacto</p>
+      <p><em>Hola!<br><br> Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta, mi intereses se centran en web development, enfocado en lenguajes como JavaScript, y de maquetación como HTML y CSS</em></p>
+      <p><em>En esta web encontrarás informacion acerca de mis habilidades, proyectos en los que he participado e información de contacto</em></p>
     </main>
     <nav>
       <ul class="un-list-dos">
@@ -38,12 +38,13 @@ Web personal
         <li><a href="#contacto">Contacto</a></li>
       </ul>
     </nav>
+    <hr>
     <section>
       <article>
         <h2 class="informacion">Acerca de mí</h2>
-       <p class="descripcion-uno">Mi nombre es Luis Eduardo Díaz, vivo en Venezuela, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React.</p>
+        <p class="descripcion-uno"><em>Mi nombre es Luis Eduardo Díaz, vivo en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React.</em></p>
         <!-- mejorar redaccion de la presentacion -->
-        <p class="descripcion-dos">Aparte de desarrollo web tengo un background en arquitectura, donde mis intereses se centran en urbanismo e interior design.</p>
+        <p class="descripcion-dos"><em>Aparte de desarrollo web tengo un <u>background en arquitectura</u>, donde mis intereses se centran en urbanismo e interior design.</em></p>
       </article>
     </section>
     <section>
@@ -67,6 +68,7 @@ Web personal
     </section>
     <footer>
       <!-- agregar un encabezado -->
+      <hr>
       <h3 class="contacto">Contacto:</h3>
         <ol class="ult-list">
           <li><a target="_blank" href="https://mail.google.com/mail/u/0/#inbox">Email</a></li>
