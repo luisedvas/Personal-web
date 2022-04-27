@@ -92,7 +92,7 @@ Web personal
     <!-- padding and margin -->
     <!-- arreglar este "inicio" -->
     <section class="boton-inicio">
-       <a href="#top">Inicio</a>
-    </section>  
+        <a href="#top">Inicio</a>
+    </div>
   </body>
 </html>
