@@ -9,29 +9,29 @@ Web personal
   </head>
   <body>
     <header>
-      <section class="boton-principal">
-        <form action="url-where-you-want-to-submit-form-data">
-          <input type="text" placeholder="Datos" required>
-          <button type="submit">Submit</button>
-        </form>
+      <section class="botones-principales">
+        
      </section>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil"  id="top"></a>
       <h1 class="encabezado-principal"><strong>Luis Eduardo Díaz</strong></h1>
       <side>
         <ul class="un-list">
-          <li>Datos</li>
-          <li>Edad: 28 años</li>
-          <li>Dirección: Ciudad Ojeda, Venezuela.</li>
+          <strong>
+            <li>Datos</li>
+            <li>Edad: 28 años</li>
+            <li>Dirección: Ciudad Ojeda, Venezuela.</li>
+          </strong> 
         </ul>
       </side>
     </header> 
       <!-- Mejorar mi presentación -->
     <main class="presentacion">
-      <p><em>Hola!<br><br> Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta, mi intereses se centran en web development, enfocado en lenguajes como JavaScript, y de maquetación como HTML y CSS</em></p>
-      <p><em>En esta web encontrarás informacion acerca de mis habilidades, proyectos en los que he participado e información de contacto</em></p>
+      <p>Hola!<br><br> Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de forma autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript, y de maquetación como HTML y CSS</p>
+      <p>En esta web encontrarás informacion acerca de mis habilidades y proyectos en los que he participado e información de contacto.</p>
     </main>
     <nav>
       <ul class="un-list-dos">
+        <h3>Barra de navegación</h3>
         <li><a class="list-dos" href="#informacion">Información</a></li>
         <li><a class="list-dos" href="#habilidades">Habilidades</a></li>
         <li><a class="list-dos" href="#proyectos">Proyectos</a></li>
@@ -41,21 +41,23 @@ Web personal
     <hr>
     <section>
       <article>
-        <h2 class="informacion">Acerca de mí</h2>
-        <p class="descripcion-uno"><em>Mi nombre es Luis Eduardo Díaz, vivo en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React.</em></p>
+        <h2 id="informacion">Acerca de mí</h2>
+        <p class="descripcion-uno">Soy un estudiante es su último semestre de arquitectura cuyos intereses se centran en la tecnología basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se centran en aprender JavaScript y React.</p>
         <!-- mejorar redaccion de la presentacion -->
-        <p class="descripcion-dos"><em>Aparte de desarrollo web tengo un <u>background en arquitectura</u>, donde mis intereses se centran en urbanismo e interior design.</em></p>
+        <p class="descripcion-dos">Aparte de desarrollo web tengo un <u>background en arquitectura</u>, donde mis intereses se centran en urbanismo e interior design.</p>
       </article>
     </section>
     <section>
       <article>
         <h2 id="habilidades">Habilidades</h2>
         <ol class="list-ord-1">
-          <li>HTML</li>
-          <li>CSS</li>
-          <li>JavaScript</li>
-          <li>React</li>
-          <li>Figma</li>
+          <strong>
+            <li>HTML</li>
+            <li>CSS</li>
+            <li>JavaScript</li>
+            <li>React</li>
+            <li>Figma</li>
+          </strong>
         </ol>
       </article>
     </section>
@@ -70,7 +72,7 @@ Web personal
     <footer>
       <!-- agregar un encabezado -->
       <hr>
-      <h3 class="contacto">Contacto:</h3>
+      <h3 id="contacto">Contacto:</h3>
         <ol class="ult-list">
           <li><a class="sub" target="_blank" href="#">Email</a></li>
           <li><a class="sub" target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
