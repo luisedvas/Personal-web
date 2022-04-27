@@ -4,7 +4,7 @@ Web personal
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <title>Portfolio Luis Díaz</title>
+    <title>Personal Web Luis Díaz</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
