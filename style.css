@@ -1,8 +1,4 @@
-.boton-principal {
-  display: flex;
-  align-item: right;
-  
-}
+/* Inicio CSS */
 
 .imagen-de-perfil {
   border-color: black;
@@ -10,6 +6,8 @@
   border-width: 6px;
   border-radius: 50%;	
   align-item: center;
+  display: block;
+  margin: auto;
 }
 
 .encabezado-principal {
@@ -17,6 +15,7 @@
   color: rgb(90, 100, 180);
   font-size: 24px;
   font-family: 'Times New Roman';
+  text-transform: uppercase;
 }
 
 .un-list {
@@ -29,35 +28,37 @@
   border-width: 3px;
   border-radius: 6px;
   text-align: justify;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgb(0, 0, 0, 0.23);
 }
-
-.list-dos {
-  text-decoration: none;  
-}
-
 
 .presentacion {
   color: black;
-  font-size: 21px;
+  font-size: 24px;
   font-family: 'Times New Roman';
   text-align: justify;
+  font-weight: 300;
 }
 
 .un-list-dos {
   color: black;
   background-color: gray;
-  font-size: 18px;
+  font-size: 21px;
   font-family: 'Times New Roman';
   border-style: solid;
   border-color: black;
   border-width: 3px;
   border-radius: 6px;
   text-align: justify;
-  padding: 20px 10px 20px 30px;
-  margin: 20px 30px 10px 30px;
+  padding: 10px 20px 10px 20px;
+  margin: 10px 10px 30px 10px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgb(0, 0, 0, 0.23);
 }
 
-.informacion {
+.list-dos {
+  text-decoration: none;
+ } 
+
+#informacion {
   color: rgb(80, 180, 180);
   font-size: 24px;
   font-family: monospace;
@@ -66,16 +67,18 @@
 
 .descripcion-uno {
   color: black;
-  font-size: 21px;
+  font-size: 24px;
   font-family: 'Times New Roman';
   text-align: justify;
+  font-weight: 200px;
 }
 
-.descripcion-dos{
+.descripcion-dos {
   color: black;
-  font-size: 21px;
+  font-size: 24px;
   font-family: 'Times New Roman';
   text-align: justify;
+  font-weight: 300;
 }
 
 #habilidades {
@@ -95,6 +98,7 @@
   border-width: 3px;
   border-radius: 6px;
   text-align: justify;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgb(0, 0, 0, 0.23);
 }
 
 #proyectos {
@@ -108,7 +112,7 @@
   font-size: 22px;
 }
 
-.contacto {
+#contacto {
   color: rgb(80, 180, 180);
   font-size: 21px;
   font-family: monospace;
@@ -117,12 +121,13 @@
 .ult-list {
   color: black;
   background-color: gray;
-  font-size: 18px;
-  
+  font-size: 21px;
   border-style: solid;
   border-color: black;
   border-width: 3px;
   border-radius: 6px;
+  margin: 0px 5px 30px 5px;
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgb(0, 0, 0, 0.23);
 }
 
 .sub {
@@ -130,7 +135,8 @@
 }
 
 .texto-incrustado {
-   margin-bottom: -25px;
+   margin-bottom: -40px;
+   font-size: 24px;
    text-align: center;	
 }
 
@@ -139,6 +145,10 @@
    border-width: 5px;
    border-color: black;
    text-align: center;
+   border-radius: 6px;
+   margin-right: 5px;
+   margin-left: 5px;
+   box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgb(0, 0, 0, 0.23);
 }
 
 .black-box {
@@ -161,6 +171,3 @@
 [type='submit'] {
   margin: 20px 0px 20px 0px;
 }
-
-
-/* Practicar variables CSS */
