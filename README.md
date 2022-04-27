@@ -32,7 +32,7 @@ Web personal
     </main>
     <nav>
       <ul class="un-list-dos">
-        <h3>Barra de navegación</h3>
+        <h3 class="barra">Barra de navegación</h3>
         <li><a class="list-dos" href="#informacion">Información</a></li>
         <li><a class="list-dos" href="#habilidades">Habilidades</a></li>
         <li><a class="list-dos" href="#proyectos">Proyectos</a></li>
