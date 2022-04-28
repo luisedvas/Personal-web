@@ -9,12 +9,19 @@ Web personal
   </head>
   <body>
     <header>
-     <section class="botones-principales">   
-       <!-- Aqui quiero agregar botones como "About me" "Contact" y otros-->
-     </section>
+      <h1>Welcome</h1>
+      <nav id="navbar">   
+        <ul>
+          <li><a href="">Home</a></li>
+          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#information">Information</a></li>
+          <li><a href="#contact">Contact</a></li>
+        </ul>
+      </nav>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil" id="top"></a>
-      <h1 class="encabezado-principal"><strong>Luis Eduardo Díaz</strong></h1>
-      <side>
+      <h2 class="encabezado-principal" id="about-me"><strong>Luis Eduardo Díaz</strong></h2>
+      </header> 
+      <aside>
         <ul class="un-list">
           <strong>
             <li>Datos</li>
@@ -23,20 +30,18 @@ Web personal
             <li>Nacionalidad: Venezolana</li>
           </strong> 
         </ul>
-      </side>
-    </header> 
+      </aside>
       <!-- Mejorar mi presentación -->
     <main class="presentacion">
       <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript, y de maquetación como HTML y CSS</p>
       <p>En esta web encontrarás informacion acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
     </main>
     <nav>
-      <ul class="un-list-dos">
-        <h3 class="barra">Barra de navegación</h3>
+      <ul class="un-list-dos" id="information">
+        <h3 class="barra">Barra de contenido</h3>
         <li><a class="list-dos" href="#informacion">Información</a></li>
         <li><a class="list-dos" href="#habilidades">Habilidades</a></li>
         <li><a class="list-dos" href="#proyectos">Proyectos</a></li>
-        <li><a class="list-dos" href="#contacto">Contacto</a></li>
       </ul>
     </nav>
     <hr>
@@ -74,7 +79,7 @@ Web personal
     <footer>
       <!-- agregar un encabezado -->
       <hr>
-      <h3 id="contacto">Contacto:</h3>
+      <h3 id="contact">Contacto:</h3>
         <ol class="ult-list">
           <li><a class="sub" target="_blank" href="#">Email</a></li>
           <li><a class="sub" target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
@@ -87,7 +92,7 @@ Web personal
     <h5 class="texto-incrustado">Gracias!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
-      <h3 class="box caja-azul">Contacto</h3>
+      <h3 class="box caja-azul">Support my work</h3>
     </div>
     <!-- padding and margin -->
     <!-- arreglar este "inicio" -->
