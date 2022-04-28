@@ -9,7 +9,7 @@ Web personal
   </head>
   <body>
     <header>
-      <h1><strong>Welcome</strong></h1>
+      <h1><strong>Welcome!</strong></h1>
       <nav id="navbar">   
         <ul>
           <li><a href="">Home</a></li>
@@ -45,17 +45,17 @@ Web personal
       </ul>
     </nav>
     <hr>
-    <section>
+    <section id="informacion">
       <article>
-        <h2 id="informacion">Acerca de mí</h2>
+        <h2>Acerca de mí</h2>
         <p class="descripcion-uno">Soy un estudiante de último semestre de arquitectura cuyos intereses se centran en la tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
         <!-- mejorar redaccion de la presentacion -->
         <p class="descripcion-dos">Aparte de desarrollo web tengo un <u>background en arquitectura</u>, donde mis intereses se centran en urbanismo e interior design.</p>
       </article>
     </section>
-    <section>
+    <section id="habilidades">
       <article>
-        <h2 id="habilidades">Habilidades</h2>
+        <h2>Habilidades</h2>
         <ol class="list-ord-1">
           <strong>
             <li>HTML</li>
@@ -67,13 +67,13 @@ Web personal
         </ol>
       </article>
     </section>
-    <section>
+    <section id="proyectos">
       <article>
-        <h2 id="proyectos">Proyectos</h2>
+        <h2>Proyectos</h2>
         <h3 class="tesis">Tesis de grado</h3>
         <!-- Ejemplo de tesis hasta terminar la mia -->
         <a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
-        <figcaption>Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
+        <figcaption class="figcap">Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
       </article>
     </section>
     <footer id="contact">
