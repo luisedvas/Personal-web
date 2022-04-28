@@ -4,12 +4,12 @@ Web personal
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <title>Personal Web Luis Díaz</title>
+    <title>Personal Web Luis Eduardo Díaz</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
     <header>
-      <h1>Welcome</h1>
+      <h1><strong>Welcome</strong></h1>
       <nav id="navbar">   
         <ul>
           <li><a href="">Home</a></li>
@@ -21,8 +21,8 @@ Web personal
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil" id="top"></a>
       <h2 class="encabezado-principal" id="about-me"><strong>Luis Eduardo Díaz</strong></h2>
       </header> 
-      <aside>
-        <ul class="un-list">
+      <aside class="un-list">
+        <ul>
           <strong>
             <li>Datos</li>
             <li>Edad: 28 años</li>
@@ -36,12 +36,12 @@ Web personal
       <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript, y de maquetación como HTML y CSS</p>
       <p>En esta web encontrarás informacion acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
     </main>
-    <nav>
-      <ul class="un-list-dos" id="information">
+    <nav class="un-list-dos" id="information">
+      <ul>
         <h3 class="barra">Barra de contenido</h3>
-        <li><a class="list-dos" href="#informacion">Información</a></li>
-        <li><a class="list-dos" href="#habilidades">Habilidades</a></li>
-        <li><a class="list-dos" href="#proyectos">Proyectos</a></li>
+        <li><a href="#informacion">Información</a></li>
+        <li><a href="#habilidades">Habilidades</a></li>
+        <li><a href="#proyectos">Proyectos</a></li>
       </ul>
     </nav>
     <hr>
