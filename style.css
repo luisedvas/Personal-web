@@ -3,6 +3,11 @@
     background-color: rgba(45, 45, 45, 0.1);
 }
 
+h1 {
+  text-transform: uppercase;
+  margin-left: 10px;
+}
+
   #navbar {
     top: 0px;
     left: 0px;
@@ -15,7 +20,6 @@
     border-radius: 5px;
     background-color: #767676;
     text-transform: uppercase;
-    position: fixed;
   }
 
  nav ul {
@@ -150,7 +154,12 @@ nav li {
   font-size: 22px;
 }
 
-#contacto {
+.figcap {
+  color: black;
+  font-size: 21px;
+}
+
+#contact {
   color: rgb(80, 180, 180);
   font-size: 21px;
   font-family: monospace;
