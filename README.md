@@ -76,7 +76,7 @@ Web personal
         <figcaption class="figcap">Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
       </article>
     </section>
-    <footer id="contact">
+    <section id="contact">
       <hr>
       <h3>Contacto:</h3>
         <ol class="ult-list">
@@ -86,17 +86,20 @@ Web personal
           </li>
           <li><a class="sub" target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/">LinkedIn</a></li>
         </ol>
-    </footer>
+    </section>
     <!-- padding and margin -->
     <h5 class="texto-incrustado">Gracias!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
-      <h3 class="box caja-azul">Support my work</h3>
+      <h3 class="box caja-azul">Support my work <u>here</u></h3>
     </div>
     <!-- padding and margin -->
     <!-- arreglar este "inicio" -->
     <section class="boton-inicio">
         <a href="#top">Inicio</a>
     </div>
+    <footer>
+      <p>Luis Eduardo Díaz, 2022.</p>
+    </footer>
   </body>
 </html>
