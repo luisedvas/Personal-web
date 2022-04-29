@@ -91,12 +91,13 @@ Web personal
     <h5 class="texto-incrustado">Gracias!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
-      <h3 class="box caja-azul">Support my work <u>here</u></h3>
+      <h3 class="box caja-azul">Support my work</h3>
     </div>
+    <div>
     <!-- padding and margin -->
     <!-- arreglar este "inicio" -->
-    <section class="boton-inicio">
-        <a href="#top">Inicio</a>
+      <section class="boton-inicio">
+      <a href="#top">Inicio</a>
     </div>
     <footer>
       <p>Luis Eduardo Díaz, 2022.</p>
