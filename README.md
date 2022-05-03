@@ -9,11 +9,11 @@ Web personal
   </head>
   <body>
     <header>
-      <h1><strong>Welcome!</strong></h1>
+      <h1><strong>Luis Eduardo Díaz!</strong></h1>
       <nav id="navbar">   
         <ul>
           <li><a href="">Home</a></li>
-          <li><a href="#about-me">About Me</a></li>
+          <li><a href="#about-me">About</a></li>
           <li><a href="#information">Information</a></li>
           <li><a href="#contact">Contact</a></li>
         </ul>
