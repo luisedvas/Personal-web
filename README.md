@@ -19,7 +19,7 @@ Web personal
         </ul>
       </nav>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil" id="top"></a>
-      <h2 class="encabezado-principal" id="about-me"><strong>JavaScript Developer</strong></h2>
+      <h2 class="encabezado-principal" id="about-me"><strong>HMTL, CSS & JavaScript Developer</strong></h2>
       </header> 
       <aside class="un-list">
         <ul>
@@ -33,7 +33,7 @@ Web personal
       </aside>
       <!-- Mejorar mi presentación -->
     <main class="presentacion">
-      <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS</p>
+      <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS.</p>
       <p>En esta web encontrarás información acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
     </main>
     <nav class="un-list-dos" id="information">
