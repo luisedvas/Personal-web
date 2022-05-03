@@ -1,6 +1,6 @@
 /* Inicio CSS */
-  body {
-    background-color: rgba(45, 45, 45, 0.1);
+body {
+  background-color: rgba(45, 45, 45, 0.1);
 }
 
 h1 {
@@ -209,8 +209,8 @@ nav li {
 .caja-amarilla {
   background: repeating-linear-gradient(
     45deg,
-    green 0px,
-    green 40px,
+    white 0px,
+    white 40px,
     gray 40px,
     gray 80px
 );
@@ -224,10 +224,10 @@ nav li {
 .caja-azul {
   background: repeating-linear-gradient(
     45deg,
-    blue 0px,
-    blue 40px,
-    orange 40px,
-    orange 80px
+    gray 0px,
+    gray 40px,
+    white 40px,
+    white 80px
 );
   margin: 20px 40px 20px 40px;
 }
@@ -272,3 +272,5 @@ footer {
   text-transform: capitalize;
   padding: 5px 20px 5px 20px;
 }
+
+/* Agregar un corazon o animacion con las proiedadesdes de animación en CSS <code>animation-iteration</code> @keyframes y otras */ 
