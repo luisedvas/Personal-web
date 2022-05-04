@@ -99,6 +99,9 @@ Web personal
         <a href="#top">Inicio</a>
     </div>
     <footer>
+<!-- activar si quiero poner la animacion de corazon
+      <div class="back"></div>
+      <div class="heart"></div> -->
       <p>&copy; Luis Eduardo Díaz, 2022.</p>
     </footer>
   </body>
