@@ -31,7 +31,6 @@ Web personal
           </strong> 
         </ul>
       </aside>
-      <!-- Mejorar mi presentación -->
     <main class="presentacion">
       <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS.</p>
       <p>En esta web encontrarás información acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
@@ -48,13 +47,12 @@ Web personal
     <section id="informacion">
       <article>
         <h2>Acerca de mí</h2>
-        <p class="descripcion-uno">Soy un estudiante de último semestre de arquitectura cuyos intereses se centran en tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
+        <p class="descripcion-uno">Soy un estudiante de último semestre de la carrera de arquitectura cuyos intereses se centran en tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
         <!-- mejorar redaccion de la presentacion -->
         <p class="descripcion-dos">Aparte de desarrollo web, tengo un <u>background en arquitectura</u>, donde mis intereses se enfocan en el urbanismo y el diseño de interiores.</p>
       </article>
     </section>
     <section id="habilidades">
-      <article>
         <h2>Habilidades</h2>
         <ol class="list-ord-1">
           <strong>
@@ -65,7 +63,6 @@ Web personal
             <li>Figma</li>
           </strong>
         </ol>
-      </article>
     </section>
     <section id="proyectos">
       <article>
@@ -79,28 +76,30 @@ Web personal
     <section id="contact">
       <hr>
       <h3>Contacto:</h3>
+        <nav>
         <ol class="ult-list">
           <li><a class="sub" target="_blank" href="#">Email</a></li>
           <li><a class="sub" target="_blank" href="https://twitter.com/naval/status/1002103360646823936">Twitter</a></li>
           <li><a class="sub" target="_blank" href="https://www.instagram.com/luiseduardodvz/">Instagram</a>
           </li>
           <li><a class="sub" target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/">LinkedIn</a></li>
+        </nav>
         </ol>
     </section>
-    <!-- padding and margin -->
+    <!-- use padding and margin -->
     <h5 class="texto-incrustado">Gracias!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
       <h3 class="box caja-azul">Support my work</h3>
     </div>
     <div>
-    <!-- padding and margin -->
+    <!-- use padding and margin -->
     <!-- arreglar este "inicio" -->
     <section class="boton-inicio">
         <a href="#top">Inicio</a>
     </div>
     <footer>
-      <p>Luis Eduardo Díaz, 2022.</p>
+      <p>&copy; Luis Eduardo Díaz, 2022.</p>
     </footer>
   </body>
 </html>
