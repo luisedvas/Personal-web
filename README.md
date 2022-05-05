@@ -69,8 +69,10 @@ Web personal
         <h2>Proyectos</h2>
         <h3 class="tesis">Tesis de grado</h3>
         <!-- Ejemplo de tesis hasta terminar la mia -->
-        <a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
+        <!-- arreglar este "figure" y "figurecaption" hasta que funcione -->
+        <figure><a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
         <figcaption class="figcap">Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
+        </figure>
       </article>
     </section>
     <section id="contact">
