@@ -210,8 +210,8 @@ nav li {
     45deg,
     white 0px,
     white 40px,
-    gray 40px,
-    gray 80px
+    white 40px,
+    white 80px
 );
   margin: 20px 40px 20px 40px;
 }
@@ -223,8 +223,8 @@ nav li {
 .caja-azul {
   background: repeating-linear-gradient(
     45deg,
-    gray 0px,
-    gray 40px,
+    white 0px,
+    white 40px,
     white 40px,
     white 80px
 );
