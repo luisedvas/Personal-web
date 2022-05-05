@@ -37,8 +37,7 @@ Web personal
     </main>
     <nav class="un-list-dos" id="information">
       <ul>
-        <h3 class="barra">Table of Contents
-</h3>
+        <h3 class="barra">Table of Contents</h3>
         <li><a href="#informacion">Información</a></li>
         <li><a href="#habilidades">Habilidades</a></li>
         <li><a href="#proyectos">Proyectos</a></li>
@@ -102,7 +101,7 @@ Web personal
         <a href="#top">Inicio</a>
     </div>
     <footer>
-<!-- activar si quiero poner la animacion de corazon
+<!-- activar si quiero poner la animación de corazón
       <div class="back"></div>
       <div class="heart"></div> -->
       <p>&copy; Luis Eduardo Díaz, 2022.</p>
