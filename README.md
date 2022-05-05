@@ -37,7 +37,8 @@ Web personal
     </main>
     <nav class="un-list-dos" id="information">
       <ul>
-        <h3 class="barra">Barra de contenido</h3>
+        <h3 class="barra">Table of Contents
+</h3>
         <li><a href="#informacion">Información</a></li>
         <li><a href="#habilidades">Habilidades</a></li>
         <li><a href="#proyectos">Proyectos</a></li>
