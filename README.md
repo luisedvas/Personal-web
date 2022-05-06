@@ -24,9 +24,8 @@ Web personal
       <aside class="un-list">
         <ul>
           <strong>
-            <li>Datos</li>
             <li>Age: 28 years old.</li>
-            <li>Diretion: Ciudad Ojeda, Venezuela.</li>
+            <li>Direction: Ciudad Ojeda, Venezuela.</li>
             <li>Nacionality: Venezuelan.</li>
           </strong> 
         </ul>
