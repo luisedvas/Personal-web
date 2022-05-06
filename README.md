@@ -43,7 +43,7 @@ Web personal
       </ul>
     </nav>
     <hr>
-    <section id="informacion">
+    <section id="information">
       <article>
         <h2>About me</h2>
         <p class="descripcion-uno">Soy un estudiante de último semestre de la carrera de arquitectura cuyos intereses se centran en tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
