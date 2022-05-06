@@ -88,7 +88,7 @@ Web personal
         </ol>
     </section>
     <!-- use padding and margin -->
-    <h5 class="texto-incrustado">Gracias!</h5>
+    <h5 class="texto-incrustado">Thanks!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
       <h3 class="box caja-azul">Support my work</h3>
@@ -97,7 +97,7 @@ Web personal
     <!-- use padding and margin -->
     <!-- arreglar este "inicio" -->
     <section class="boton-inicio">
-        <a href="#top">Inicio</a>
+        <a href="#top">Start</a>
     </div>
     <footer>
 <!-- activar si quiero poner la animación de corazón
