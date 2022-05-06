@@ -25,14 +25,14 @@ Web personal
         <ul>
           <strong>
             <li>Datos</li>
-            <li>Edad: 28 años</li>
-            <li>Dirección: Ciudad Ojeda, Venezuela.</li>
-            <li>Nacionalidad: Venezolana</li>
+            <li>Age: 28 years old.</li>
+            <li>Diretion: Ciudad Ojeda, Venezuela.</li>
+            <li>Nacionality: Venezuelan.</li>
           </strong> 
         </ul>
       </aside>
     <main class="presentacion">
-      <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz, y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS.</p>
+      <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS.</p>
       <p>En esta web encontrarás información acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
     </main>
     <nav class="un-list-dos" id="information">
@@ -46,14 +46,14 @@ Web personal
     <hr>
     <section id="informacion">
       <article>
-        <h2>Acerca de mí</h2>
+        <h2>About me</h2>
         <p class="descripcion-uno">Soy un estudiante de último semestre de la carrera de arquitectura cuyos intereses se centran en tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
         <!-- mejorar redaccion de la presentacion -->
         <p class="descripcion-dos">Aparte de desarrollo web, tengo un <u>background en arquitectura</u>, donde mis intereses se enfocan en el urbanismo y el diseño de interiores.</p>
       </article>
     </section>
     <section id="habilidades">
-        <h2>Habilidades</h2>
+        <h2>Skills</h2>
         <ol class="list-ord-1">
           <strong>
             <li>HTML</li>
@@ -66,7 +66,7 @@ Web personal
     </section>
     <section id="proyectos">
       <article>
-        <h2>Proyectos</h2>
+        <h2>Projects</h2>
         <h3 class="tesis">Tesis de grado</h3>
         <!-- Ejemplo de tesis hasta terminar la mia -->
         <!-- arreglar este "figure" y "figurecaption" hasta que funcione -->
@@ -77,7 +77,7 @@ Web personal
     </section>
     <section id="contact">
       <hr>
-      <h3>Contacto:</h3>
+      <h3>Contact:</h3>
         <nav>
         <ol class="ult-list">
           <li><a class="sub" target="_blank" href="#">Email</a></li>
