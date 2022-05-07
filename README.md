@@ -19,7 +19,7 @@ Web personal
         </ul>
       </nav>
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img class="imagen-de-perfil" src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil" id="top"></a>
-      <h2 class="encabezado-principal" id="about-me"><strong>HMTL, CSS & JavaScript Developer</strong></h2>
+      <h2 class="encabezado-principal" id="about-me"><strong>HTML, CSS & JavaScript Developer</strong></h2>
       </header> 
       <aside class="un-list">
         <ul>
@@ -37,9 +37,9 @@ Web personal
     <nav class="un-list-dos" id="information">
       <ul>
         <h3 class="barra">Table of Contents</h3>
-        <li><a href="#informacion">Información</a></li>
-        <li><a href="#habilidades">Habilidades</a></li>
-        <li><a href="#proyectos">Proyectos</a></li>
+        <li><a href="#informacion">Information</a></li>
+        <li><a href="#habilidades">Skills</a></li>
+        <li><a href="#proyectos">Projects</a></li>
       </ul>
     </nav>
     <hr>
@@ -66,10 +66,10 @@ Web personal
     <section id="proyectos">
       <article>
         <h2>Projects</h2>
-        <h3 class="tesis">Tesis de grado</h3>
+        <h3 class="tesis">Thesis</h3>
         <!-- Ejemplo de tesis hasta terminar la mia -->
         <!-- arreglar este "figure" y "figurecaption" hasta que funcione -->
-        <figure><a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
+        <figure><a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img class ="img"src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado"></a>
         <figcaption class="figcap">Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
         </figure>
       </article>
