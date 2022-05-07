@@ -1,7 +1,7 @@
 # Personal-web
 Web personal
 <!DOCTYPE html>
-<html lang="en-UK">
+<html lang="en-US">
   <head>
     <meta charset="UTF-8">
     <title>Luisdev</title>
