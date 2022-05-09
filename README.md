@@ -31,8 +31,8 @@ Web personal
         </ul>
       </aside>
     <main class="presentacion">
-      <p>Hola!<br><br>Mi nombre es Luis Eduardo Díaz y actualmente me encuentro aprendiendo desarrollo web de manera autodidacta. Mis intereses se centran en desarrollo web, enfocado en lenguajes de programación como JavaScript y de maquetación como HTML y CSS.</p>
-      <p>En esta web encontrarás información acerca de mis habilidades y proyectos que he creado durante mi aprendizaje e información de contacto.</p>
+      <p>Hello!<br><br>My name is Luis Eduardo Díaz and I am self-taught web developer. My interests are focused on web development, focused on programming languages such as JavaScript and layout languages such as HTML and CSS.</p>
+      <p>On this website you will find information about my skills and projects that I have created during my apprenticeship and contact information.</p>
     </main>
     <nav class="un-list-dos" id="information">
       <ul>
@@ -46,9 +46,9 @@ Web personal
     <section id="information">
       <article>
         <h2>About me</h2>
-        <p class="descripcion-uno">Soy un estudiante de último semestre de la carrera de arquitectura cuyos intereses se centran en tecnología, el diseño y desarrollo de software, basado en <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Estado Zulia</a>. Actualmente aprendo desarrollo web de forma autodidacta, mi objetivos se orientan en aprender JavaScript y React.</p>
+        <p class="descripcion-uno">I am a student in the last semester of architecture whose interests are focused on technology, design and software development, based on <u>Venezuela</u>, <a target="_blank" href="https://www.instagram.com/p/CUiMed4lFDS/">Zulia state</a>. I am currently learning web development in a self-taught way, my goals are focused on learning JavaScript and React.</p>
         <!-- mejorar redaccion de la presentacion -->
-        <p class="descripcion-dos">Aparte de desarrollo web, tengo un <u>background en arquitectura</u>, donde mis intereses se enfocan en el urbanismo y el diseño de interiores.</p>
+        <p class="descripcion-dos">Apart from web development, I have a <u>background in architecture</u>, where my interests lie in urban planning and interior design..</p>
       </article>
     </section>
     <section id="habilidades">
@@ -70,7 +70,7 @@ Web personal
         <!-- Ejemplo de tesis hasta terminar la mia -->
         <!-- arreglar este "figure" y "figurecaption" hasta que funcione -->
         <figure><a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado" class="img"></a>
-        <figcaption class="figcap">Autores: Akna Márquez, Grecia Omaña (2016). Propuesta de intervención urbana arquitéctonica, Av. Manuel Espinoza Batista, Ciudad de Panamá.</figcaption>
+        <figcaption class="figcap">Autors: Akna Márquez, Grecia Omaña (2016). Architectural urban intervention proposal, Av. Manuel Espinoza Batista, City of Panamá.</figcaption>
         </figure>
       </article>
     </section>
