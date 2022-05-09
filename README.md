@@ -48,7 +48,7 @@ Web personal
         <h2>About me</h2>
         <p class="descripcion-uno">I am a student in the last semester of architecture whose interests are focused on technology, design and software development, based on <a target="_blank" href="https://es.wikipedia.org/wiki/Estado_Zulia">Zulia</a>, <u>Venezuela</u>.  I am currently learning web development in a self-taught way, my goals are focused on learning JavaScript and React.</p>
         <!-- mejorar redaccion de la presentacion -->
-        <p class="descripcion-dos">Apart from web development, I have a <u>background in architecture</u>, where my interests lie in urban planning and interior design..</p>
+        <p class="descripcion-dos">Apart from web development, I have a <u>background in architecture</u>, where my interests lie in urban planning and interior design.</p>
       </article>
     </section>
     <section id="habilidades">
