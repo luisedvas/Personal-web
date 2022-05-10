@@ -70,7 +70,7 @@ Web Personal
         <!-- Ejemplo de tesis hasta terminar la mia -->
         <!-- arreglar este "figure" y "figurecaption" hasta que funcione -->
         <figure><a target="_blank" href="http://www.aknamarquez.com/manuelespinosainterv"><img src="https://images.squarespace-cdn.com/content/v1/575c3eec746fb9ca8e92d938/1466957193221-X8OTI2C8E6AI5O7UFNDB/zBoulevard+comercial.png?format=2500w" alt="tesis-de-grado" class="img"></a>
-        <figcaption class="figcap">Autors: Akna Márquez, Grecia Omaña (2016). Architectural urban intervention proposal, Av. Manuel Espinoza Batista, City of Panamá.</figcaption>
+        <figcaption class="figcap">Autors: Akna Márquez, Grecia Omaña (2016). Architectural urban intervention proposal, Av. Manuel Espinoza Batista, City of Panamá, Panamá.</figcaption>
         </figure>
       </article>
     </section>
@@ -91,7 +91,7 @@ Web Personal
     <h5 class="texto-incrustado">Thanks!</h5>
     <div class="box black-box">
       <h3 class="box caja-amarilla">Buy me a coffee</h3>
-      <h3 class="box caja-azul">Support my work</h3>
+      <h3 class="box caja-azul">Share my work here</h3>
     </div>
     <div>
     <!-- use padding and margin -->
