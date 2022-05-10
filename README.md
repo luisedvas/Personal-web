@@ -10,7 +10,7 @@ Web Personal
   <body>
     <header>
       <h1 id="home"><strong>Luis Eduardo Díaz</strong></h1>
-      <nav id="navbar">Barra de navegación  
+      <nav id="navbar">Navigation bar 
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#about-me">About</a></li>
