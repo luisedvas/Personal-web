@@ -1,16 +1,16 @@
 # Personal-web
-Web personal
+Web Personal
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
-    <title>Luisdev</title>
+    <title>Luiseduardodev</title>
     <link rel="stylesheet" type="text/css" href="styles.css">
   </head>
   <body>
     <header>
       <h1 id="home"><strong>Luis Eduardo Díaz</strong></h1>
-      <nav id="navbar">   
+      <nav id="navbar">Barra de navegación  
         <ul>
           <li><a href="#home">Home</a></li>
           <li><a href="#about-me">About</a></li>
@@ -31,13 +31,13 @@ Web personal
         </ul>
       </aside>
     <main class="presentacion">
-      <p>Hello!<br><br>My name is Luis Eduardo Díaz and I am self-taught web developer. My interests are focused on web development, focused on programming languages such as JavaScript and layout languages such as HTML and CSS.</p>
+      <p>Hello!<br><br>My name is Luis Eduardo Díaz and I´m self-taught web developer. My interests are focused on web development, focused on programming languages such as JavaScript and layout languages such as HTML and CSS.</p>
       <p>On this website you will find information about my skills and projects that I have created during my apprenticeship and contact information.</p>
     </main>
     <nav class="un-list-dos" id="information">
       <ul>
         <h3 class="barra">Table of Contents</h3>
-        <li><a href="#informacion">Information</a></li>
+        <li><a href="#information">Information</a></li>
         <li><a href="#habilidades">Skills</a></li>
         <li><a href="#proyectos">Projects</a></li>
       </ul>
