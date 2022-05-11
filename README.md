@@ -10,6 +10,7 @@ Web Personal
   <body>
     <header>
       <h1 id="home"><strong>Luis Eduardo Díaz</strong></h1>
+      <!-- Tengo que arreglar esta barra de navegación. Hacerla más responsiva -->
       <nav id="navbar">Navigation bar 
         <ul>
           <li><a href="#home">Home</a></li>
