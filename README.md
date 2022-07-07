@@ -4,12 +4,13 @@ Web Personal
 <html lang="en-US">
   <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Luiseduardodev</title>
-    <link rel="stylesheet" type="text/css" href="styles.css">
+    <link rel="stylesheet" type="text/css" href="./styles.css">
   </head>
   <body>
     <header>
-      <h1 id="home"><strong>Luis Eduardo Díaz</strong></h1>
+      <h1 id="home" class="heading">Luis Eduardo Díaz</h1>
       <!-- Tengo que arreglar esta barra de navegación. Hacerla más responsiva -->
       <nav id="navbar">Navigation bar 
         <ul>
@@ -31,8 +32,9 @@ Web Personal
           </strong> 
         </ul>
       </aside>
-    <main class="presentacion">
-      <p>Hello!<br><br>My name is Luis Eduardo Díaz and I´m self-taught web developer. My interests are focused on web development, focused on programming languages such as JavaScript and layout languages such as HTML and CSS.</p>
+    <main class="presentation">
+      <p>Who am I:</p>
+      <p>Hello!<br><br>I´m Luis, I live in Venezuela and am studying to be an architect. I also enjoy talking about urban design, research and software development. My interests are focused on web development, focused on urban design, reasearch and programming languages such as JavaScript and Python.</p>
       <p>On this website you will find information about my skills and projects that I have created during my apprenticeship and contact information.</p>
     </main>
     <nav class="un-list-dos" id="information">
