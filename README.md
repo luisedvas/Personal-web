@@ -9,6 +9,7 @@ Web Personal
     <link rel="stylesheet" type="text/css" href="./styles.css">
   </head>
   <body>
+  <!----------------------- header ------------------------>
     <header>
       <h1 id="home" class="heading">Luis Eduardo Díaz</h1>
       <!-- Tengo que arreglar esta barra de navegación. Hacerla más responsiva -->
@@ -23,6 +24,7 @@ Web Personal
       <a target="_blank" href="https://www.linkedin.com/in/luiseduardodiazv/"><img src="https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fpublic.notion-static.com%2F42bdc3e0-7c8f-48b8-ba88-8497dcc0b36b%2Fphoto_2020-12-05_14-51-59.jpg?width=180&userId=2df478bb-ed80-4268-838b-761757425b08&cache=v2" width="800px" height="800px" alt="imagen-de-perfil" class="imagen-de-perfil" id="top"></a>
       <h2 class="encabezado-principal" id="about-me"><strong>HTML, CSS & JavaScript Developer</strong></h2>
       </header> 
+      <!-- Presentation -->
       <aside class="un-list">
         <ul>
           <strong>
